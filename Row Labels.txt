@@ -1,0 +1,192 @@
+Row Labels
+ Afghanistan
+ Alabama
+ Alaska
+ Albania
+ Aleutian Islands
+ Algeria
+ American Samoa
+ Angola
+ Anguilla
+ Antigua and Barbuda
+ Argentina
+ Arizona
+ Arkansas
+ Armenia
+ Australia
+ Austria
+ Azerbaijan
+ B.C.
+ Bangladesh
+ Barbados
+ Bermuda
+ Bhutan
+ Bolivia
+ Bonaire
+ Bosnia and Herzegovina
+ Brazil
+ Burma (Myanmar)
+ Burundi
+ CA
+ California
+ Canada
+ Cayman Islands
+ Chile
+ China
+ Colombia
+ Colorado
+ Connecticut
+ Costa Rica
+ Croatia
+ Cuba
+ Cyprus
+ Democratic Republic of the Congo
+ Denmark
+ Deyang
+ Djibouti
+ Dominican Republic
+ Ecuador
+ Egypt
+ El Salvador
+ Eritrea
+ Ethiopia
+ Federated States of Micronesia
+ Fiji
+ France
+ Gabon
+ Georgia
+ Greece
+ Greenland
+ Guadeloupe
+ Guam
+ Guatemala
+ Guinea
+ Guyana
+ Haiti
+ Hawaii
+ Honduras
+ Hungary
+ Iceland
+ Idaho
+ Illinois
+ India
+ Indonesia
+ Iran
+ Iraq
+ Israel
+ Italy
+ Jamaica
+ Japan
+ Japan Earthquake
+ Kansas
+ Kazakhstan
+ Kentucky
+ Kosovo
+ Kuwait
+ Kyrgyzstan
+ Laikit II (Dimembe)
+ Laos
+ Lebanon
+ Libya
+ Louisiana
+ Louisiana Earthquake
+ Madagascar
+ Maine
+ Malawi
+ Malaysia
+ Malta
+ Martinique
+ Maryland
+ Massachusetts
+ Mauritius
+ Mexico
+ Michigan
+ Micronesia
+ Missouri
+ Mongolia
+ Montana
+ Montenegro
+ Morocco
+ Mozambique
+ Nebraska
+ Nepal
+ Netherlands
+ Nevada
+ New Caledonia
+ New Hampshire
+ New Jersey
+ New Mexico
+ New York
+ New Zealand
+ Nicaragua
+ North Carolina
+ North Dakota
+ Northern Mariana Islands
+ Norway
+ NV
+ Ohio
+ Oklahoma
+ Oman
+ OR
+ Oregon
+ Pakistan
+ Palau
+ Panama
+ Papua New Guinea
+ Pennsylvania
+ Peru
+ Philippines
+ Poland
+ Portugal
+ Puerto Rico
+ Romania
+ Russia
+ Rwanda
+ Saint Helena
+ Saint Lucia
+ Saint Pierre and Miquelon
+ Samoa
+ Saudi Arabia
+ Serbia
+ Slovakia
+ Solomon Islands
+ Somalia
+ South Africa
+ South Carolina
+ South Dakota
+ Spain
+ Sudan
+ Svalbard and Jan Mayen
+ Switzerland
+ Syria
+ Taiwan
+ Taiwan Earthquake
+ Tajikistan
+ Tanzania
+ Tennessee
+ Texas
+ Thailand
+ Timor Leste
+ Tonga
+ Trinidad and Tobago
+ Tunisia
+ Turkey
+ Turkmenistan
+ U.S. Virgin Islands
+ Uganda
+ Ukraine
+ United Arab Emirates
+ United Kingdom
+ Utah
+ Uzbekistan
+ Vanuatu
+ Venezuela
+ Vermont
+ Vietnam
+ Virginia
+ Wallis and Futuna
+ Washington
+ West Virginia
+ Wyoming
+ Yemen
+ Zambia
